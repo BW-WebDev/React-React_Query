@@ -10,6 +10,8 @@ const CharactersGalleryStyle = styled.div`
     rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
   height: 100vh;
   min-height: -webkit-fill-available;
+  max-width: 2000px;
+  margin:auto;
   display: grid;
   align-items: start;
   justify-items: center;
